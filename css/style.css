@@ -41,6 +41,7 @@ aside {
 }
 
 body {
+  background-image:linear-gradient(white,antiquewhite,teal);
   margin: 0 auto;
   max-width: 960px;
 }
